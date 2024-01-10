@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/mhaidar10/pneumonia-cnn-basic/assets/72262185/4a7dec93-1b59-46ae-9886-ece720f919ac" width="200" />
-  <img src="https://github.com/mhaidar10/pneumonia-cnn-basic/assets/72262185/dd4b64d7-3537-4121-b834-cedc35f08bca" width="800" height="430" /> 
+  <img src="https://github.com/mhaidar10/pneumonia-cnn-basic/assets/72262185/dd4b64d7-3537-4121-b834-cedc35f08bca" width="600" height="430" /> 
 </p>
 
 ## University Exam Project
