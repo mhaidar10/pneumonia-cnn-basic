@@ -34,7 +34,7 @@ machine_learning
 1. Clone the repository to your local computer using the following command:
 
    ```shell
-   git clone https://github.com/mhaidar10/Submission_Analisis_Data_Python.git](https://github.com/mhaidar10/pneumonia-cnn-basic.git
+   git clone https://github.com/mhaidar10/pneumonia-cnn-basic.git
    ``` 
 2. Install the Library with the following command:
 
