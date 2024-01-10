@@ -11,10 +11,10 @@ Repository was created regarding the implementation of the CNN algorithm created
 ## Description
 A project was created that was able to **automatically detect pneumonia** based on x-ray images
 
-# Dataset Source
+## Dataset Source
 Kaggle Dataset Chest X-Ray Images (Pneumonia) [(Link Download)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
-# Directory Structure
+## Directory Structure
 ```shell
 machine_learning
 ├── model
